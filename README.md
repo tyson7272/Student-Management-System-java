@@ -13,3 +13,8 @@ For compiling: javac -cp alljarfiles/* *.java
 
 
 For running the project: java -cp alljarfiles/*;. Sms
+
+
+
+
+Note: Open cmd in the project folder itself.
